@@ -2,7 +2,7 @@
 
 ##### Sobre o Cléberson:
 
-Estudo a um ano programação gosto muito dessa área pretendo me evoluir cada a dia mais.
+Estudo a um ano programação gosto muito dessa área pretendo me evoluir cada dia a mais.
 
 #### Detalhes:
 
