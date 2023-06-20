@@ -11,4 +11,8 @@ Estudo a um ano programação gosto muito dessa área pretendo me evoluir cada a
 #### Projetos:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cleb1nh0&repo=tik_tok_project)](https://github.com/anuraghazra/github-readme-stats)
 
+### Linguagens utlizadas:
+
+
+
 
