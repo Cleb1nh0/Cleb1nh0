@@ -1,5 +1,5 @@
 ## Bem-vindo(a) ao meu perfil 🚀🚀💻💻
-olá ! meu nome Cleberson gosto muito de programação pretendo evoluir cada a mais.
+olá ! meu nome Cleberson gosto muito de programação pretendo evoluir cada dia a mais.
 
  <div>
    <a href="https://github.com/Cleb1nh0">
